@@ -1,4 +1,4 @@
-#👋 Wei Junn Tan
+# 👋 Wei Junn Tan
 
 Senior Data Analyst @ OKX | FinTech | Blockchain | Crypto | Web3 | Telco
 
