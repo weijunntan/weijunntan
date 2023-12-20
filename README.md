@@ -5,6 +5,7 @@
 * 📌  Currently based in Kuala Lumpur, Malaysia
 * 🎓  BCompSc in Software Engineer & Digital System Security
 * 📜  Certification: [Google Data Analytics](https://coursera.org/share/f52b46066fe8a95a0c6059a9ff0f6702) | [IBM Data Science](https://coursera.org/share/1adf1d116091ea82ee3d870c8bb3c1dd)
+* 📬  Connect with me on [Linkedln](https://www.linkedin.com/in/weijunntan/)
 <!--
 **weijunntan/weijunntan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
