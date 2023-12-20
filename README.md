@@ -3,7 +3,8 @@
 ## Senior Data Analyst @ OKX | FinTech | Blockchain | Crypto | Web3 | Telco ##
  
 * 📌  Currently based in Kuala Lumpur, Malaysia
-* 🎓  
+* 🎓  BCompSc in Software Engineer & Digital System Security
+* 📜  Certification: [GitHub Pages]([https://pages.github.com/](https://coursera.org/share/f52b46066fe8a95a0c6059a9ff0f6702))
 <!--
 **weijunntan/weijunntan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
