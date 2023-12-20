@@ -1,4 +1,6 @@
-### Hi there 👋
+#👋 Wei Junn Tan
+
+Senior Data Analyst @ OKX | FinTech | Blockchain | Crypto | Web3 | Telco
 
 <!--
 **weijunntan/weijunntan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
