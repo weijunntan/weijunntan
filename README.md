@@ -1,7 +1,9 @@
-# 👋 Wei Junn Tan
+# 👋 Wei Junn Tan #
 
-Senior Data Analyst @ OKX | FinTech | Blockchain | Crypto | Web3 | Telco
-
+## Senior Data Analyst @ OKX | FinTech | Blockchain | Crypto | Web3 | Telco ##
+ 
+* 📌  Currently based in Kuala Lumpur, Malaysia
+* 🎓  
 <!--
 **weijunntan/weijunntan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
