@@ -1,6 +1,6 @@
 # 👋 Wei Junn Tan #
 
-## Senior Data Analyst @ OKX | FinTech | Blockchain | Crypto | Web3 | Telco ##
+## Senior Associate, Risk & Compliance @ Lazada | FinTech | Blockchain | Crypto | Web3 | Telco ##
  
 * 📌  Currently based in Kuala Lumpur, Malaysia
 * 🎓  BCompSc in Software Engineer & Digital System Security
